@@ -60,5 +60,7 @@ if os.name == 'nt':
 command = f"cd {LABELING_PATH} && python labelImg.py"
 subprocess.run(command, shell=True, check=True)
 
-# START TRAINING AND TESTING
+# Manually assing labels and manually drag and drop into testing and training folders for now
+
+
 

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Thumbs Down</folder>
+	<filename>Thumbs Down.32877552-fff4-11ed-8e87-a05950556a30.jpg</filename>
+	<path>D:\Repos\LiveObjectDetection\LiveObjectDetection\images\collectedimages\collectedimages\Thumbs Down\Thumbs Down.32877552-fff4-11ed-8e87-a05950556a30.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ThumbsDown</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>355</xmin>
+			<ymin>66</ymin>
+			<xmax>640</xmax>
+			<ymax>383</ymax>
+		</bndbox>
+	</object>
+</annotation>
